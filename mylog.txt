@@ -1,0 +1,5 @@
+A new car requested:parking sensor: 800. electric windows: 500. basic car; Korea; blue: 15000
+A new car requested:electric windows: 500. basic car; nbh; Red: 15000
+A new car requested:basic car; SDF; : 15000
+A new car requested:parking sensor: 800. basic car; Toyota; red: 15000
+A new car requested:electric windows: 500. basic car; ; : 15000
